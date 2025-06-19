@@ -17,5 +17,5 @@ It includes 10 multiple-choice questions with safe money levels, using lists and
 
 ## 👩‍💻 Author:
 - Osru
-- 3rd Year CSE Student | Learning AI, Python & Research
+- 3rd Year CSE Student | Learning AI, Python & Research..
 
